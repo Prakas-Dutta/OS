@@ -1,0 +1,24 @@
+Command		Functions
+-------		---------
+help		To display all command and functions.
+exit		Exit from the terminal.
+vi		Create a file and write or change and existing file.
+mkdir		Create new directory.
+cat		Display or show the content of a file.
+rmdir		Remove the directory from the system.
+rm		Remove a file from the direcotry.
+ct		Check or show the current time.
+pwd		Print the working directory or location of current directory.
+cd		Change to another directory from current directory.
+echo		Print a message.
+rnm		Rename a file or directory.
+clear		Clear terminal.
+mv		Move a file or directory.
+bkclr		Change background colour.
+clr		Change font colour.
+italic		Change font in italic.
+bold		Change font in bold.
+undrln		Underline the fonts.
+smpl		Reset the font changes.
+ls		List all file and directory in the current directory.
+touch		Create a file without write.
