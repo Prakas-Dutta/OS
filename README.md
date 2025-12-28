@@ -1,1 +1,1 @@
-This is all.
+This is a good software, which gives us a clarity of understanding the working mechanism of command user interface(CUI). This is motivated from UNIX system (i.e. UNIX bash shell). Most of the command of UNIX system is developed in this software. It is fully developed on C. It also gives us the facility of multi-user interface just like UNIX. Just download all files to run it in your hardware. Thank you!!!
