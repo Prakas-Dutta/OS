@@ -1,0 +1,8 @@
+# Compiled binaries and precompiled headers
+*.exe
+*.gch
+*.o
+*.obj
+
+# User data generated at runtime
+uid.dtls
