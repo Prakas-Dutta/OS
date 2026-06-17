@@ -1,5 +1,5 @@
 # Custom Unix-like Shell
-
+![Backup Software GUI](screenshots/gui.png)
 A command-line shell built from scratch in C, modeled on a Unix/bash-style CUI experience. Implements its own kernel-style command dispatcher, multi-user authentication, and 20+ built-in commands — no external shell library used.
 
 ---
